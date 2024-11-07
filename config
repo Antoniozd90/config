@@ -1,5 +1,5 @@
 {
-  "Version":"12",
+  "Version":"13",
   "Update":"https://raw.githubusercontent.com/Antoniozd90/config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -17,10 +17,10 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"br.amvoxnet.shop", 
+         "ServerIP":"br5.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
+         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
       },
       {
          "Color": "#ffffff",
@@ -32,10 +32,10 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"vpn01.ref99.shop", 
+         "ServerIP":"br5.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
+         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
       }
   ],
 "Networks": [
@@ -47,7 +47,7 @@
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: Websocket[crlf][crlf]",
          "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
          "ProxyPort":"80",
          "SNI":"",
@@ -76,7 +76,7 @@
          "Info":"Proxy",
          "Name":"VIVO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"172.233.17.8",
+         "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -90,7 +90,7 @@
          "Info":"Proxy",
          "Name":"CLARO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"172.233.17.8",
+         "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
