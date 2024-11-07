@@ -13,7 +13,7 @@
          "NomeDaCor": "#000000",
          "Descrição": "AI QUE TUDO",
          "BANDEIRA":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Nome":"SERVIDOR VIP",
+         "Nome":"SERVIDOR DO BINHO",
          "USUÁRIO":"",
          "PASSAR":"",
          "SSLPort":"443",
@@ -28,14 +28,14 @@
          "NomeDaCor": "#000000",
          "Descrição": "AI QUE DILIÇA",
          "BANDEIRA":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Nome":"SERVIDOR VIP 2",
+         "Nome":"SERVIDOR DO COUTY",
          "USUÁRIO":"",
          "PASSAR":"",
          "SSLPort":"443",
          "IP do servidor":"br5.shop",
          "Porta do Servidor":"80",
          "TIPO":"premium",
-         "CheckUser": http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
       }
   ],
 "Redes": [
@@ -71,11 +71,11 @@
          "Cor": "#993399",
          "ColorDescription": "#ffffff",
          "NomeDaCor": "#ffffff",
-         "Descrição": "vivo KKKK",
+         "Descrição": "vivo pre",
          "BANDEIRA":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Informações":"Proxy",
          "Nome":"VIVO",
-         "Carga útil":"[delay_split] ACL / HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf][crlf][split]ACL HTTP/1.1[crlf]Host: api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br [crlf]Conexão proxy: keep-alive[crlf]Atualização: websocket[crlf][crlf]",
+         "Payload":"[delay_split] ACL / HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf][crlf][split]ACL HTTP/1.1[crlf]Host: api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br [crlf]Conexão proxy: keep-alive[crlf]Atualização: websocket[crlf][crlf]",
          "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
@@ -90,7 +90,7 @@
          "Informações":"Proxy",
          "Nome":"CLARO",
          "Carga útil":"[dividir][atraso_dividir]ACL / /\n]",
-         "ProxyIP":"164.152.243.184",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""      
@@ -118,7 +118,7 @@
          "Informações":"Proxy",
          "Nome":"VIVO",
          "Carga útil":"[dividir][atraso_dividir]ACL / /\n]",
-         "ProxyIP":"164.152.243.184",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -132,7 +132,7 @@
          "Informações":"Proxy",
          "Nome":"CLARO",
          "Carga útil":"[dividir][atraso_dividir]ACL / /\n]",
-         "ProxyIP":"164.152.243.184",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
