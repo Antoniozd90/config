@@ -8,19 +8,19 @@
   "Site":"https://www.speedtest.net",
   "Servers": [
        {
-         "Color": "#0431B4",
-         "ColorDescription": "#F2F2F2",
-         "ColorName": "#0B0B61",
+         "Color": "#ffffff",
+         "ColorDescription": "#000000",
+         "ColorName": "#000000",
          "Description": "AI QUE TUDO",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR BR",
+         "Name":"SERVIDOR DO BINHO",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"br5.shop", 
+         "ServerIP":"br.amvoxnet.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       },
       {
          "Color": "#ffffff",
@@ -28,14 +28,14 @@
          "ColorName": "#000000",
          "Description": "AI QUE DILIÇA",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR BR",
+         "Name":"SERVIDOR DO COUTY",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"br5.shop", 
+         "ServerIP":"vpn01.ref99.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       }
   ],
 "Networks": [
