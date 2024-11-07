@@ -1,5 +1,5 @@
 {
-  "Version":"2",
+  "Version":"3",
   "Update":"https://raw.githubusercontent.com/Antoniozd90/config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"",
@@ -13,7 +13,7 @@
          "ColorName": "#0B0B61",
          "Description": "AI QUE TUDO",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR DO BINHO",
+         "Name":"SERVIDOR NetPlus",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
