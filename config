@@ -8,8 +8,8 @@
   "Site":"https://www.speedtest.net",
   "Servers": [
        {
-         "Color": "#ffffff",
-         "ColorDescription": "#0B0B61",
+         "Color": "#0431B4",
+         "ColorDescription": "#F2F2F2",
          "ColorName": "#0B0B61",
          "Description": "AI QUE TUDO",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
