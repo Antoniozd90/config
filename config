@@ -47,7 +47,7 @@
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf][crlf]",
          "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
          "ProxyPort":"80",
          "SNI":"",
@@ -65,53 +65,6 @@
          "ProxyIP":"104.21.2.132",
          "ProxyPort":"80",
          "SNI":"",
-         "TlsIP":""       
-      },
-      {
-         "Color": "#993399",
-         "ColorDescription": "#ffffff",
-         "ColorName": "#ffffff",
-         "Description": "vivo facil",
-         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
-         "Info":"Proxy",
-         "Name":"VIVO",
-         "Payload":"[delay_split] ACL / HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf][crlf][split]ACL HTTP/1.1[crlf]Host: api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br [crlf]Conexão proxy: keep-alive[crlf]Atualização: websocket[crlf][crlf]#[delay_split][crlf]ACL / HTTP/1.1[crlf]Host: www.whatsapp.com [crlf]Atualização: Upgrade[crlf]Conexão: [crlf][crlf]#[dividir]GET / HTTP/1.1
-Agente do usuário: Mozilla/5.0 (Linux; Android 13; 2201117TG Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, como Gecko) Versão/4.0 Chrome/125.0.6422.53 Mobile Safari/#[delay_split]LOCK / [host_port]",
-         "ProxyIP":"164.152.243.184",
-         "ProxyPort":"80",
-         "SNI":"",
-         "TlsIP":""
-      },
-      {
-         "Color": "#993399",
-         "ColorDescription": "#ffffff",
-         "ColorName": "#ffffff",
-         "Description": "vivo facil",
-         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
-         "Info":"Proxy",
-         "Name":"VIVO",
-         "Payload":"[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]#[delay_split] ACL / HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf][crlf][split]ACL HTTP/1.1[crlf]Host: api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br [crlf]Conexão proxy: keep-alive[crlf]Atualização: websocket[crlf][crlf]#[delay_split][crlf]ACL / HTTP/1.1[crlf]Host: www.whatsapp.com [crlf]Atualização: Upgrade[crlf]Conexão: [crlf][crlf]#[delay_split]LOCK / [host_port]#[dividir] PATCH HTTP/1.1Host: plus.google.com [lf]h2,http/1.1 PATCH HTTP/1.1Host: plus.google.com [lf][lf]",
-         "ProxyIP":"164.152.243.184",
-         "ProxyPort":"80",
-         "SNI":"",
-         "TlsIP":""
-      },
-      {
-         "Color": "#993399",
-         "ColorDescription": "#ffffff",
-         "ColorName": "#ffffff",
-         "Description": "CONTROLE E EASY",
-         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
-         "Info":"Proxy",
-         "Name":"VIVO",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: Websocket[crlf][crlf]#GET / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: websocket[crlf][crlf]#GET / HTTP/1.1
-Host: br5.shop
-uflareConnection: Upgrade
-Upgrade: websocket
-User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-         "ProxyIP":"legado.vivo.com.br#uvp.elections.govt.nz#portaldeassinaturas.vivo.com.#portaljud.vivo.com.br#vigia.vivo.com.br# vivo360.vivo.com.br#vivomusica.vivo.com.br#compre.vivo.com.br#extranet.vivo.com.br#joguejunto.vivo.com.br#apf.maisvantagenstim.com.br#104.17.72.206#104.17.70.206#104.17.73.206#104.17.71.206#escolas.playwaze.com#ftp.chillwaze.com#bucs.playwaze.com#141.193.213.10#104.18.7.80#104.18.6.80#104.18.7.41#104.18.6.41#104.16.51.111#104.18.33.113#104.18.33.113#104.16.239.166#104.17.64.225#104.19.240.25#104.18.27.160#104.16.239.166#104.18.28.181#104.16.237.16#104.18.33.113#141.193.213.11#104.26.5.32",
-         "ProxyPort":"80",
-         "SNI":"",
          "TlsIP":""
       },
       {
@@ -123,7 +76,7 @@ User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
          "Info":"Proxy",
          "Name":"VIVO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"164.152.243.184",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -137,7 +90,7 @@ User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
          "Info":"Proxy",
          "Name":"CLARO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"164.152.243.184",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
