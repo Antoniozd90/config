@@ -1,5 +1,5 @@
 {
-  "Versão":"10",
+  "Versão":"9",
   "Atualizar":"https://raw.githubusercontent.com/Antoniozd90/config/refs/heads/main/config",
   "UdpPort":"7300",
   "SMS":"",
@@ -17,10 +17,10 @@
          "USUÁRIO":"",
          "PASSAR":"",
          "SSLPort":"443",
-         "IP do servidor":"br5.shop",
+         "IP do servidor":"br.amvoxnet.shop",
          "Porta do Servidor":"80",
          "TIPO":"premium",
-         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       },
       {
          "Cor": "#ffffff",
@@ -32,10 +32,10 @@
          "USUÁRIO":"",
          "PASSAR":"",
          "SSLPort":"443",
-         "IP do servidor":"br5.shop",
+         "IP do servidor":"vpn01.ref99.shop",
          "Porta do Servidor":"80",
          "TIPO":"premium",
-         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       }
   ],
 "Redes": [
@@ -47,7 +47,7 @@
          "BANDEIRA":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Informações":"Proxy",
          "Nome":"TIM SALDO VALIDO 01",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br5.shop[crlf]Atualização: Websocket[crlf][crlf]",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Atualização: Websocket[crlf][crlf]",
          "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com .br",
          "ProxyPort":"80",
          "SNI":"",
@@ -71,12 +71,12 @@
          "Cor": "#993399",
          "ColorDescription": "#ffffff",
          "NomeDaCor": "#ffffff",
-         "Descrição": "vivo pre",
+         "Descrição": "vivo KKKK",
          "BANDEIRA":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Informações":"Proxy",
          "Nome":"VIVO",
-         "Payload":"[delay_split] ACL / HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf][crlf][split]ACL HTTP/1.1[crlf]Host: api-equipamentos.vivo.com.br/ HTTP/1.1[crlf]X-Online-Host: api-equipamentos.vivo.com.br [crlf]X-Forwarded-Host: api-equipamentos.vivo.com.br [crlf]Conexão proxy: keep-alive[crlf]Atualização: websocket[crlf][crlf]",
-         "ProxyIP":"164.152.243.184",
+         "Carga útil":"[dividir][atraso_dividir]ACL / /\n]",
+         "ProxyIP":"172.233.17.8",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
