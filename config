@@ -1,5 +1,5 @@
 {
-  "Version":"4",
+  "Version":"5",
   "Update":"https://raw.githubusercontent.com/Antoniozd90/config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"",
@@ -13,14 +13,14 @@
          "ColorName": "#0B0B61",
          "Description": "AI QUE TUDO",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR NetPlus",
+         "Name":"SERVIDOR BR",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"br.amvoxnet.shop", 
+         "ServerIP":"br5.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
+         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
       },
       {
          "Color": "#ffffff",
@@ -28,14 +28,14 @@
          "ColorName": "#000000",
          "Description": "AI QUE DILIÇA",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "Name":"SERVIDOR DO COUTY",
+         "Name":"SERVIDOR BR",
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"vpn01.ref99.shop", 
+         "ServerIP":"br5.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://172.233.17.8:5454/checkUser"
+         "CheckUser": "http://cloud4g.gestorssh.com.br/checkuser/conecta4g.php"
       }
   ],
 "Networks": [
@@ -76,7 +76,7 @@
          "Info":"Proxy",
          "Name":"VIVO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"172.233.17.8",
+         "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -90,7 +90,7 @@
          "Info":"Proxy",
          "Name":"CLARO",
          "Payload":"[split][delay_split]ACL / /\n]",
-         "ProxyIP":"172.233.17.8",
+         "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
