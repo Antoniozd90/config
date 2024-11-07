@@ -89,7 +89,7 @@
          "BANDEIRA":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Informações":"Proxy",
          "Nome":"CLARO",
-         "Carga útil":"[dividir][atraso_dividir]ACL / /\n]#[delay_split][crlf]ACL / HTTP/1.1[crlf]Host: www.whatsapp.com [crlf]Atualização: Upgrade[crlf]Conexão: [crlf][crlf]",
+         "Carga útil":"[dividir][atraso_dividir]ACL / /\n]",
          "ProxyIP":"164.152.243.184",
          "ProxyPort":"80",
          "SNI":"",
