@@ -1,5 +1,5 @@
 {
-  "Version":"3",
+  "Version":"4",
   "Update":"https://raw.githubusercontent.com/Antoniozd90/config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"",
@@ -47,7 +47,7 @@
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Info":"Proxy",
          "Name":"TIM SALDO VALIDO 01",
-         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+         "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br5.shop[crlf]Upgrade: Websocket[crlf][crlf]",
          "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
          "ProxyPort":"80",
          "SNI":"",
